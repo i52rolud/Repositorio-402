@@ -1,1 +1,1 @@
-﻿Version conflictiva desde master
+﻿Version final con conflicto resuelto
